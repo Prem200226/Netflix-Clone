@@ -1,0 +1,1 @@
+This is a simple clone of the Netflix homepage, built using only HTML and CSS. The purpose of this project is to practice front-end web development skills, focusing on responsive design, layout techniques, and styling.
